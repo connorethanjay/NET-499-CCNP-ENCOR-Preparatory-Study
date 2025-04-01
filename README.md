@@ -3,7 +3,7 @@ A repository for study materials, topologies, and notes in my studies for the CC
 
 Notes will be stored in the Repository Wiki Tab, while any files (eg. GNS3 Projects) will be stored in the repository Code tab.
 
-## Plan (To be approved by Champlain College Faculty):
+## Plan - to be approved by Champlain College Faculty:
 
 ### NET-498 CCNP ENCOR Capstone Study
 
