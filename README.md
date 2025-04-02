@@ -3,8 +3,8 @@ A repository for study materials, topologies, and notes in my studies for the CC
 
 Notes will be stored in the Repository Wiki Tab, while any files (eg. GNS3 Projects) will be stored in the repository Code tab.
 
-## Plan - to be approved by Champlain College Faculty:
+## Current Plan:
 
-### NET-499 CCNP ENCOR Preparatory Study Proposal (Fall 2025)
+### NET-499: CCNP ENCOR Preparatory Study Proposal (Fall 2025)
 
 NET-499 is a self-directed course designed to prepare the student to take the Cisco 350-401 ENCOR exam and begin the process of preparing for the Cisco 300-410 ENARSI exam. The student will utilize their existing lab environment and purchase professional training resources to learn enterprise networking concepts through self-directed study with weekly faculty consultations. The course develops both technical expertise and essential professional skills for becoming a high-achiever including time management, self-accountability, and confident public speaking in an evolving industry.
