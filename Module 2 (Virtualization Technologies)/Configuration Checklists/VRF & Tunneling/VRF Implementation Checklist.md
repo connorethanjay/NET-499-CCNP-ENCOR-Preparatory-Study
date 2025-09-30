@@ -1,9 +1,9 @@
 # VRF Implementation Verification Checklist
 
 ## Pre-Implementation Verification
-- [ ] All router interfaces are up/up
-- [ ] Base IP connectivity between routers confirmed
-- [ ] IOS version supports VRF (show version)
+- [x] All router interfaces are up/up
+- [x] Base IP connectivity between routers confirmed
+- [x] IOS version supports VRF (show version)
 
 ## VRF Configuration Verification
 - [ ] VRFs created on all routers (show vrf)
