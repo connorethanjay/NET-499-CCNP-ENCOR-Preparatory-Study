@@ -6,7 +6,7 @@
 - [x] IOS version supports VRF (show version)
 
 ## VRF Configuration Verification
-- [ ] VRFs created on all routers (show vrf)
+- [X] VRFs created on all routers (show vrf)
 - [ ] Interfaces assigned to correct VRFs (show ip vrf interfaces)
 - [ ] IP addresses configured within VRFs (show ip route vrf [name])
 - [ ] VRF route tables isolated (no cross-contamination)
