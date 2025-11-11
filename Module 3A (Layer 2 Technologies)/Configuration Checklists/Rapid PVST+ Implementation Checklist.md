@@ -17,10 +17,10 @@
 
 ## Convergence Testing
 - [x] Link failure convergence time: 2 seconds
-- [ ] Root bridge failure convergence: ___ seconds
-- [ ] Improvement over STP documented: ___ seconds faster
+- [x] Root bridge failure convergence: 3 seconds
+- [x] Improvement over STP documented: 46+ seconds faster
 
 ## Security Verification
-- [ ] BPDU Guard working (test with rogue switch)
-- [ ] Root Guard preventing topology changes
+- [x] BPDU Guard working (test with rogue switch)
+- [x] Root Guard preventing topology changes
 - [x] Loop Guard protecting against unidirectional links
