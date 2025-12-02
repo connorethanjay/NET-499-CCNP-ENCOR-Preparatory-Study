@@ -2,6 +2,7 @@
 
 ## Initial Problem Report
 **Start Time:** 10:08 AM
+
 **Symptoms:**
 - Internet connectivity lost from Area 1
 - BGP routes missing from routing table  
