@@ -7,15 +7,15 @@
 
 ## VRF Configuration Verification
 - [X] VRFs created on all routers (show vrf)
-- [ ] Interfaces assigned to correct VRFs (show ip vrf interfaces)
-- [ ] IP addresses configured within VRFs (show ip route vrf [name])
-- [ ] VRF route tables isolated (no cross-contamination)
+- [X] Interfaces assigned to correct VRFs (show ip vrf interfaces)
+- [X] IP addresses configured within VRFs (show ip route vrf [name])
+- [X] VRF route tables isolated (no cross-contamination)
 
 ## Connectivity Testing
-- [ ] CUSTOMER_A can reach MGMT (route leaking works)
-- [ ] CUSTOMER_B cannot reach CUSTOMER_A (isolation confirmed)
-- [ ] CUSTOMER_B can reach MGMT (route leaking works)
-- [ ] Ping tests document source/destination IPs and results
+- [X] CUSTOMER_A can reach MGMT (route leaking works)
+- [X] CUSTOMER_B cannot reach CUSTOMER_A (isolation confirmed)
+- [X] CUSTOMER_B can reach MGMT (route leaking works)
+- [X] Ping tests document source/destination IPs and results
 
 ## Troubleshooting Commands Reference
 - show vrf
@@ -25,5 +25,5 @@
 - traceroute vrf [name] [destination]
 
 ## Configuration Backup
-- [ ] All router configurations saved
-- [ ] Configuration files stored in GitHub with proper naming
+- [X] All router configurations saved
+- [X] Configuration files stored in GitHub with proper naming

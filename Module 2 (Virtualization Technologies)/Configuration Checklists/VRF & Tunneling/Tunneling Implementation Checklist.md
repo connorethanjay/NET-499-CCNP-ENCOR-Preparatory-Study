@@ -6,7 +6,7 @@
 - [x] IP addresses assigned to tunnel interfaces
 - [x] Routing protocols working over tunnel (show ip ospf neighbor)
 - [x] End-to-end connectivity through tunnel confirmed
-- [ ] MTU considerations documented
+- [X] MTU considerations documented
 
 ## IPSec Tunnel Verification
 - [x] Crypto maps configured correctly
@@ -17,12 +17,12 @@
 - [x] Encrypted traffic flowing (show crypto ipsec sa detail)
 
 ## Performance Testing
-- [ ] Baseline latency without tunnels
-- [ ] GRE tunnel latency impact measured
-- [ ] IPSec tunnel latency impact measured
-- [ ] Throughput testing results documented
+- [X] Baseline latency without tunnels
+- [X] GRE tunnel latency impact measured
+- [X] IPSec tunnel latency impact measured
+- [X] Throughput testing results documented
 
 ## Security Validation
-- [ ] IPSec encryption confirmed via packet capture
-- [ ] Authentication working correctly
-- [ ] Key exchange successful (show crypto isakmp sa)
+- [X] IPSec encryption confirmed via packet capture
+- [X] Authentication working correctly
+- [X] Key exchange successful (show crypto isakmp sa)
